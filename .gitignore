@@ -44,7 +44,8 @@ bin/
 Bin/
 /Log
 /Logs
-obj/
+/**/obj/
+/obj/
 /Release
 /Temp
 /Tools/MongoDB
@@ -53,8 +54,7 @@ Publish/
 */TestResults/
 Assets/Generate/Model/Proto*
 Assets/Generate/Model/Excel*
-/**/AssemblyReference.asmref
-/**/AssemblyReference.asmref.meta
+MongoDB/
 Unity.sln
 Unity.sln.DotSettings.user
 
